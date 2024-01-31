@@ -1,6 +1,7 @@
 Description:
 In that project main agenda to convert voice to text
 In the project directory, you can run:
+git clone https://github.com/your-username/folder_name.git
 
 ### `npm start`
 
